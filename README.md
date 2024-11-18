@@ -62,10 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dev-barbosajv/Dev-barbosajv/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">Social Media</h1>
 
 ###
