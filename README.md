@@ -36,17 +36,6 @@
 
 <p align="left">Olá, sou João Vitor Santos 👋🏼. Atualmente, sou Desenvolvedor Backend Júnior, com 9 meses de experiência. Tenho focado em criar microsserviços eficientes e escaláveis, utilizando tecnologias como Python, Flask e FastAPI. Estou sempre em busca de aprender novas ferramentas e melhorar minhas habilidades em desenvolvimento backend.</p>
 
-###
-
-<h1 align="left">Music</h1>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/wmwwvindl8nd67j7lktb6lx0q">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wmwwvindl8nd67j7lktb6lx0q&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
